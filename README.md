@@ -11,3 +11,10 @@ ESTE ES EL LINK DE JSFIDDLE
 
 https://jsfiddle.net/Danielsantafeospina341911515/txe26odk/18/
 
+ADJUNTO IMAGEN DE JSFIDDLE
+
+![Imagen1](https://user-images.githubusercontent.com/61298481/81350030-c0082c80-9086-11ea-9f49-021e23c00b83.png)
+
+
+
+
